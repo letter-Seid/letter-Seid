@@ -23,4 +23,4 @@ I'm a self-taught Ful-Stack developer
 **About me**
 
 - 🔭 Freelance works at the momment
-- ❤️ Love building Mobile Apps using [![Flutter](https://avatars.githubusercontent.com/u/14101776?s=200&v=4)](https://github.com/flutter)
+- ❤️ Love building Mobile Apps using [<img width="12px" alt="Flutter!" src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" />](https://github.com/flutter)
