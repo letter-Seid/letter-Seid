@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"><a href="https://anuraghazra.github.io"><b>Hello! I'm Letter Seid</b></a></p>
+
+<br />
+
+I'm a self-taught Ful-Stack developer
+
+**About me**
+
+- 🔭 Freelance works at the momment
+- ❤️ Love building Mobile Apps using [![Flutter](https://avatars.githubusercontent.com/u/14101776?s=200&v=4)](https://github.com/flutter)
