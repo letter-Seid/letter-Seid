@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"><a href="https://anuraghazra.github.io"><b>Hello! I'm Letter Seid</b></a></p>
+<p align="center"><a href="https://github.com/letter-Seid"><b>Hello! I'm Letter Seid</b></a></p>
 
 <br />
 
